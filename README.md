@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gloria Pappalardo and I'm a masters student studying geographic information science at Clark University.
 - 👀 I’m interested in geospatial technologies that help analyze and visualize urbanization, migration, political geography, and land cover/use. My goal is to analyze geographic information and design webmaps. 
-- 🌱 I’m currently HTML, CSS, and JavaScript in Learning Fuze's prep course.
+- 🌱 I’m currently studying HTML, CSS, and JavaScript in Learning Fuze's prep course.
 - 📫 How to reach me ... gpappalardo@clarku.edu
 
 <!---
